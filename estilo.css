@@ -1,0 +1,176 @@
+body {
+margin:0px;
+font-size : 10pt;
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+color: black;
+/*text-align:justify;*/
+line-height: 14pt;
+padding-left:5pt;
+padding-right:5pt;
+padding-top:5pt;
+background-image:url(fondogrande.jpg)
+
+}
+
+
+#main{
+	text-align:justify;
+	margin-top:100px;
+	margin-right:100px;
+	margin-bottom:1100px;
+	/*margin-left:100px;*/
+	/*float: left;*/
+	
+}
+
+
+#aside{
+	
+	font-size:15px;
+	text-align:left;
+	width: 150px;
+	float: left;
+	margin-top: 100px;
+	margin-right: 100px;
+	margin-left:15px;
+	margin-bottom: 3400px
+	/*background-image:url(imagenes/fondonav.jpg)*/
+
+}
+
+
+
+
+
+
+
+	
+h5{
+	font:10pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align:left;
+	font-weight:100;
+	line-height:normal
+}
+
+
+p.subheader{
+	font-weight: bold;
+	color: #593d87;
+}
+
+
+
+
+
+a{
+	text-decoration: none;
+}
+
+a:link {
+	color: #005500;
+
+}
+
+a:visited{
+	color:#474E47;
+}
+
+a:hover, {
+	color: #990000;
+
+}
+
+a:active{
+	color: #990000;
+}
+
+#codigoejemplo{
+	margin:20px;
+}
+#nav{
+	text-align:center;
+	margin-top:0px;
+	/*background-color:#FFCC00;*/
+	border: 15px;
+}
+
+
+
+
+#atencion{
+	
+	margin:20px;
+	
+}
+
+#imagen{
+	margin-right:300px;
+	margin-top:0px;
+	margin-bottom:100px;
+	padding:15pt;
+	float:right;
+	width: 500px;
+	height:500px;
+	vertical-align:80px;
+	
+}
+
+#content{
+	width: 550px;
+	float: left;
+}
+/*
+div.aside{
+	display: block;
+	float:inherit;
+	text-decoration:none;
+	padding:30
+}
+
+*/
+
+#mail{
+	text-align:left;
+	font-size: 9pt;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+#logo1{
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	float:right;
+	
+}
+	
+#logo2{
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+	float:right;
+	
+	
+}
+
+
+#footer{
+	margin-top:800px;
+	margin-right: 10px;
+	margin-bottom:50px;
+	margin-left:10px;
+	
+	/*font-size: 9pt;*/
+	font-style: italic;
+	line-height: 12pt;
+	/*text-align:left;*/
+	padding-top: 10pt;	
+}
+
+
+
+
